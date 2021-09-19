@@ -32,11 +32,13 @@ seo:
       relativeUrl: true
 template: page
 ---
+Sebimores un grupo musical de San Juan, PR compuesto por Sebastián 
+Morales, Luna Rivera, Eugenio González y Oskar Thurin. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+El grupo se define por su sonido "tropical y psicodélico" plasmado en su primer 
+disco 'Badtrip' lanzado en el 2019. En el 2020 lanzaron los sencillos 
+"Cuarentena Jangueo", "Atravesada" y "Hay Que Pichar". Comenzaron el 
+2021 lanzando un EP llamado "Mermelada en Casa Fantasmes", el cual se 
+grabó de manera espontánea. El grupo promete seguir lanzando música y 
+explorando diferentes géneros musicales a través de sus próximas 
+composiciones.
