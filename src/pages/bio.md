@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-## Sebimor es un grupo musical de San Juan, PR compuesto por Sebastián&#xA;Morales, Luna Rivera, Eugenio González y Oskar Thurin.
+#### Sebimor es un grupo musical de San Juan, PR compuesto por Sebastián&#xA;Morales, Luna Rivera, Eugenio González y Oskar Thurin.
 
 El grupo se define por su sonido "tropical y psicodélico" plasmado en su primer
 disco 'Badtrip' lanzado en el 2019. En el 2020 lanzaron los sencillos
