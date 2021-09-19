@@ -22,12 +22,12 @@ export default class Page extends React.Component {
             <div className="inner outer">
               <article className="post post-full">
                 <header className="post-header inner-sm">
-                  <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
+                  {/* <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
                   {_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
                   <div className="post-subtitle">
                     {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle', null))}
                   </div>
-                  )}
+                  )} */}
                 </header>
                 {_.get(this.props, 'pageContext.frontmatter.image', null) && (
                 <div className="post-image">
