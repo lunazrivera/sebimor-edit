@@ -1,0 +1,83 @@
+{
+    "title": "Stackbit Exto Theme",
+    "color_scheme": "light",
+    "accent_color": "pink",
+    "header": {
+        "type": "header",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "BIO",
+                "url": "/bio/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "MUSIC",
+                "url": "/music/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "VIDEOS",
+                "url": "/videos/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "CONTACT",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ]
+    },
+    "footer": {
+        "type": "footer",
+        "trade-mark": "Copyright © 2021 Sebimor Inc. All rights reserved.",
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/sebimor?lang=en",
+                "style": "icon",
+                "icon": "twitter",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/sebimor/",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UCCJm5N3k7c4iNPu5mecJmmQ",
+                "style": "icon",
+                "icon": "youtube",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/sebimor/",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Spotify",
+                "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH",
+                "style": "icon",
+                "icon": "spotify",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://adorable-tiger-a6444.netlify.app"
+}
