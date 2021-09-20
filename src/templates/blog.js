@@ -22,14 +22,14 @@ export default class Blog extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="inner outer">
-              <header className={classNames('page-header', 'inner-sm', {'screen-reader-text': _.get(this.props, 'pageContext.frontmatter.hide_title', null)})}>
+              {/* <header className={classNames('page-header', 'inner-sm', {'screen-reader-text': _.get(this.props, 'pageContext.frontmatter.hide_title', null)})}>
                 <h1 className="page-title line-top">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
                 {_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
                 <div className="page-subtitle">
                   {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle', null))}
                 </div>
                 )}
-              </header>
+              </header> */}
               <div className={classNames('post-feed', 'grid', {'grid-col-2': _.get(this.props, 'pageContext.frontmatter.col_number', null) === 'two', 'grid-col-3': _.get(this.props, 'pageContext.frontmatter.col_number', null) === 'three'})}>
                 {_.map(display_posts, (post, post_idx) => (
                 <article key={post_idx} className="post grid-item">
