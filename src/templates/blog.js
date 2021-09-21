@@ -47,7 +47,7 @@ export default class Blog extends React.Component {
                       </div>
                     </header>
                     {_.get(post, 'frontmatter.excerpt', null) && (
-                    <p className="post-content">
+                    <p className="post-content post-blog">
                       {_.get(post, 'frontmatter.excerpt', null)}
                     </p>
                     )}
