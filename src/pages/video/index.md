@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Video
 subtitle: 'Sebi-blog
 '
 hide_title: false
