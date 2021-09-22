@@ -21,7 +21,7 @@
             {
                 "type": "action",
                 "label": "VIDEOS",
-                "url": "/videos/",
+                "url": "/video/",
                 "style": "link"
             },
             {
