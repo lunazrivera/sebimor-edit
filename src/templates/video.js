@@ -16,7 +16,7 @@ export const query = graphql`
   }
 `;
 
-export default class Blog extends React.Component {
+export default class Video extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
         return (
