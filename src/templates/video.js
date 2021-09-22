@@ -18,7 +18,7 @@ export const query = graphql`
 
 export default class Video extends React.Component {
     render() {
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/video'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <div className="inner outer">
