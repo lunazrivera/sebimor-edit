@@ -6,7 +6,7 @@ hide_title: false
 col_number: three
 seo:
   type: stackbit_page_meta
-  title: Blog
+  title: Video
   description: This is the blog page
   extra:
     - name: 'og:type'
