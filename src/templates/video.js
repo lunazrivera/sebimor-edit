@@ -47,7 +47,7 @@ export default class Video extends React.Component {
                       </div> */}
                     </header>
                     {_.get(post, 'frontmatter.excerpt', null) && (
-                    <p className="post-content post-blog">
+                    // <p className="post-content post-blog">
                       {_.get(post, 'frontmatter.excerpt', null)}
                     </p>
                     )}
