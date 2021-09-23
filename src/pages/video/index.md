@@ -1,7 +1,6 @@
 ---
 title: Video
-subtitle: 'Sebi-blog
-'
+subtitle: 'Sebi-blog'
 hide_title: false
 col_number: three
 seo:
