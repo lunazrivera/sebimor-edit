@@ -46,11 +46,11 @@ export default class Video extends React.Component {
                           dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d, %Y')}</time>
                       </div> */}
                     </header>
-                    {/* {_.get(post, 'frontmatter.excerpt', null) && (
+                    {_.get(post, 'frontmatter.excerpt', null) && (
                     <p className="post-content post-blog">
                       {_.get(post, 'frontmatter.excerpt', null)}
                     </p>
-                    )} */}
+                    )}
                   </div>
                 </article>
                 ))}
