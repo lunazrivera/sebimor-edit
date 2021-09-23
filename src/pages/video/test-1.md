@@ -13,8 +13,7 @@ seo:
   type: stackbit_page_meta
   title: Hay Que Pichiar
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore
+    
   extra:
     - name: 'og:type'
       value: article
