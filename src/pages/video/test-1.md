@@ -11,7 +11,7 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua.
 seo:
   type: stackbit_page_meta
-  title: Hay Que Pichiar
+  title: 
   description: >-
     
   extra:
@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Hay Que Pichiar
+      value: 
       keyName: property
     - name: 'og:description'
       value: >-
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Hay Que Pichiar
+      value: 
     - name: 'twitter:description'
       value: >-
 
