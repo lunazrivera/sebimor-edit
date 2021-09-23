@@ -39,7 +39,7 @@ export default class Video extends React.Component {
                       <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
                     </Link>
                     )}
-                    <header className="post-header">
+                    {/* <header className="post-header">
                       <h2 className="post-title"><Link to={withPrefix(_.get(post, 'url', null))} rel="bookmark">{_.get(post, 'frontmatter.title', null)}</Link></h2>
                       <div className="post-meta">
                         <time className="published"
@@ -49,7 +49,7 @@ export default class Video extends React.Component {
                     {_.get(post, 'frontmatter.excerpt', null) && (
                     <p className="post-content post-blog">
                       {_.get(post, 'frontmatter.excerpt', null)}
-                    </p>
+                    </p> */}
                     )}
                   </div>
                 </article>
