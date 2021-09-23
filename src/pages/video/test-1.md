@@ -1,7 +1,7 @@
 ---
 title: 
 subtitle: 'A interesting tale about function of design '
-date: 
+date: ''
 thumb_image: images/hqp.jpg
 thumb_image_alt: Library shelves
 image: images/13.jpg
