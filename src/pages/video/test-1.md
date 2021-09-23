@@ -34,8 +34,7 @@ seo:
       value: Hay Que Pichiar
     - name: 'twitter:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+
     - name: 'twitter:image'
       value: images/hqp.jpg
       relativeUrl: true
