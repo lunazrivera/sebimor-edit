@@ -29,6 +29,11 @@ export default class Post extends React.Component {
                     {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle', null))}
                   </div>
                   )}
+                  {_.get(this.props, 'pageContext.frontmatter.image', null) && (
+                <div className="post-image">
+                  <img src={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))} alt={_.get(this.props, 'pageContext.frontmatter.image_alt', null)} />
+                </div>
+                )}
                 </header>
                 
                 <div className="post-content inner-sm">
