@@ -7,8 +7,6 @@ thumb_image_alt: Library shelves
 image: images/13.jpg
 image_alt: Library shelves
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
 seo:
   type: stackbit_page_meta
   title: Hay Que Pichiar
