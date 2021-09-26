@@ -20,7 +20,7 @@ export default class Page extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="inner outer">
-              <article className="post post-full">
+              <article className="bio post-full">
                 {/* <header className="post-header inner-sm">
                   <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
                   {_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
