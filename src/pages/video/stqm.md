@@ -1,5 +1,5 @@
 ---
-title: Hay Que Pichiar
+title: Si Tu Quieres Mas
 subtitle: 'A interesting tale about function of design '
 date: '2018-01-15'
 thumb_image: images/hqp.jpg
