@@ -34,12 +34,11 @@ export default class Post extends React.Component {
                   <img src={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))} alt={_.get(this.props, 'pageContext.frontmatter.image_alt', null)} />
                 </div>
                 )}
-                                <div className="post-content inner-sm">
-                  {htmlToReact(_.get(this.props, 'pageContext.html', null))}
-                </div>
                 </header>
                 
-
+                <div className="post-content inner-sm">
+                  {htmlToReact(_.get(this.props, 'pageContext.html', null))}
+                </div>
                 <footer className="post-meta inner-sm">
                   <time className="published" dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time>
                 </footer>
